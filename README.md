@@ -17,9 +17,8 @@ Below is a visualization of how the 3×3 convolution window moves across the ima
 
 The design was tested on an FPGA board with live video input from a laptop and edge-detected output on a monitor.
 
-| Input Video | FPGA Output Video |
-|--------------|------------------|
-| ![FPGA Setup Input](test-setup.png) | Real-time Sobel edge detection output |
+
+| ![FPGA Setup Input](test-setup.png) 
 
 ---
 
